@@ -1,2 +1,2 @@
-# Personal-Portfolio
-This is my Personal pportfolio created by usinh html ,css and javascript
+# Personal-Resume
+This is my Personal Resume created by usinh html ,css and javascript
